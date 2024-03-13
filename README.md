@@ -1,5 +1,5 @@
 # NONTON ID APP
-![Image_prototype](https://drive.google.com/file/d/1ywo0c2Hd32CCt-ALbnd7j8-xOms66L53/view?usp=sharing)
+![Image_prototype](https://github.com/Mr-Roma/NontonID/blob/main/NONTON-ID%20MOCKUP%20APP.png)
 
 A new Flutter project.
 
