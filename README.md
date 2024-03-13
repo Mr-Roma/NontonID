@@ -1,7 +1,7 @@
 # NONTON ID APP
 ![Image_prototype](https://github.com/Mr-Roma/NontonID/blob/main/NONTON-ID%20MOCKUP%20APP.png)
 
-A new Flutter project.
+This is my first complete static Application that i made during one month, of 3 month of learning Flutter.
 
 ## Getting Started
 
